@@ -3,7 +3,7 @@ Contributors: anonymous <br>
 Tags: spam, anti-spam, antispam <br>
 Requires at least: 3.4 <br>
 
-<h2>Description<h2>
+<h2>Description</h2>
 
 <p>
 This plugin is based heavily on Ryan Hellyer's plugin "Spam Destroyer": <a href="http://pixopoint.com/products/spam-destroyer/">http://pixopoint.com/products/spam-destroyer/</a>.
