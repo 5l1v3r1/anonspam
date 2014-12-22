@@ -2,7 +2,6 @@
 Contributors: anonymous <br>
 Tags: spam, anti-spam, antispam <br>
 Requires at least: 3.4 <br>
-Stable tag: 0.0.1 <br>
 
 <h2>Description<h2>
 
@@ -10,10 +9,6 @@ Stable tag: 0.0.1 <br>
 This plugin is based heavily on Ryan Hellyer's plugin "Spam Destroyer": <a href="http://pixopoint.com/products/spam-destroyer/">http://pixopoint.com/products/spam-destroyer/</a>.
 There is no relation between author of this plugin (Anon) and Mr Hellyer.
 </p>
-
-<h2>Copyright Liscence</h2>
-
-<p>This software is distributed under the GNU General Public License.</p>
 
 <h2>Installation</h2>
 
